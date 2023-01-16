@@ -1,13 +1,9 @@
 
- ## Full Stack && Blockchain Developer
+ ## Full Stack Developer
 ![profile views](./doc/profileview.svg)
 
 <p align="center">
 
-</p>
-
-<p align="center">
-  <img align="center" src="./githublogo.jpg" style = "width: -webkit-fill-available;"/>
 </p>
 
 
